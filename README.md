@@ -18,6 +18,11 @@ We used a Random Forest Classifier trained on normalized LMS engagement data. Ev
 
 📘 [Model Development Notebook](./notebook/model_dev.ipynb)  
 
+## Report
+
+📄 [Part 1 – Short Answer Questions (PDF)](./report/Part1_ShortAnswers.pdf)
+
+
 📄 [Part 2–4 – Case Study & Reflection PDF](./report/Part2_to_Part4_Case_Study_Leonard.pdf)
 
 
