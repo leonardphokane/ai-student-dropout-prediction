@@ -1,4 +1,4 @@
-# ai-student-dropout-prediction
+
 # AI Development Workflow - Student Dropout Risk Prediction
 
 This project demonstrates the application of the AI Development Workflow to predict student dropout risk in an online learning platform.
