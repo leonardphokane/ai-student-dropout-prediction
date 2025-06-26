@@ -14,6 +14,11 @@ This project demonstrates the application of the AI Development Workflow to pred
 ## Model
 We used a Random Forest Classifier trained on normalized LMS engagement data. Evaluation focused on precision and recall.
 
+## Notebooks
+
+📘 [Model Development Notebook](./notebook/model_dev.ipynb)  
+
+
 ## Contributors
 - Leonard + Group Members
 
