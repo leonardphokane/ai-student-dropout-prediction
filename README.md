@@ -63,8 +63,14 @@ python predict.py --gender F --age 24 --language English --location Suburban --t
 **Leonard Phokane**  
 Cloud Engineering · App Development · Ethical AI  
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/leonard-phokane) *(optional)*  
+## 🙋‍♂️ Maintainer
+
+**Leonard Phokane**  
+Cloud Engineering · App Development · Ethical AI  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonard-phokane)  
 🔗 [Portfolio & Projects](#)
+
 
 🪄 Future Ideas
 •	[ ] Streamlit web app for real-time prediction
