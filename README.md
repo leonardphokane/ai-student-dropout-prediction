@@ -51,8 +51,13 @@ time_spent	Average weekly hours spent
 quiz_score	Average quiz score (0–100)
 login_count	Weekly login frequency
 
-📌 Project Status
-✅ Model Trained ✅ CLI Tool Ready 🚧 Accuracy Metrics & Web UI – In Progress 🚀 recovery-main branch is currently ahead of main
+## 📌 Project Status
+
+- ✅ Model Trained  
+- ✅ CLI Tool Ready  
+- 🚧 Accuracy Metrics & Web UI – In Progress  
+- 🚀 `recovery-main` branch is currently ahead of `main`
+
 🙋♂️ Maintainer
 Leonard Phokane Cloud Engineering · App Development · Ethical AI 📫 Connect with me on LinkedIn (Optional) 🔗 Portfolio & Projects
 🪄 Future Ideas
