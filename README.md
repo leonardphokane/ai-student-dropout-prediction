@@ -41,15 +41,17 @@ Run from inside the `model/` directory:
 python predict.py --gender F --age 24 --language English --location Suburban --time_spent 5.5 --quiz_score 80 --login_count 9
 
 
-📊 Data Fields
-Feature	Description
-gender	Student’s gender (M/F)
-age	Age in years
-language	Primary language of instruction
-location	Region type (Urban/Suburban/Rural)
-time_spent	Average weekly hours spent
-quiz_score	Average quiz score (0–100)
-login_count	Weekly login frequency
+## 📊 Data Fields
+
+| Feature       | Description                         |
+|---------------|-------------------------------------|
+| `gender`      | Student’s gender (M/F)              |
+| `age`         | Age in years                        |
+| `language`    | Primary language of instruction     |
+| `location`    | Region type (Urban/Suburban/Rural)  |
+| `time_spent`  | Average weekly hours spent          |
+| `quiz_score`  | Average quiz score (0–100)          |
+| `login_count` | Weekly login frequency              |
 
 ## 📌 Project Status
 
