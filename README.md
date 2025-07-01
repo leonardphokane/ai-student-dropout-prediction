@@ -39,6 +39,7 @@ python predict.py --gender F --age 24 --language English --location Suburban --t
 python src/preprocessing.py
 python src/train_model.py
 python src/evaluate.py
+
 📊 Data Fields
 Feature	Description
 gender	Student’s gender (M/F)
@@ -48,6 +49,7 @@ location	Region type (Urban/Suburban/Rural)
 time_spent	Average weekly hours spent
 quiz_score	Average quiz score (0–100)
 login_count	Weekly login frequency
+
 📌 Project Status
 ✅ Model Trained ✅ CLI Tool Ready 🚧 Accuracy Metrics & Web UI – In Progress 🚀 recovery-main branch is currently ahead of main
 🙋♂️ Maintainer
