@@ -69,7 +69,8 @@ Cloud Engineering · App Development · Ethical AI
 Cloud Engineering · App Development · Ethical AI  
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonard-phokane)  
-🔗 [Portfolio & Projects](#)
+🔗 [Portfolio & Projects]([https://github.com/leonardphokane/portfolio](https://leonardphokane.github.io/ai-student-dropout-prediction/))
+
 
 
 🪄 Future Ideas
