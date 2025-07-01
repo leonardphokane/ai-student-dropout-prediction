@@ -33,9 +33,7 @@ This project leverages the AI Development Workflow to predict the risk of studen
 
 Run from inside the `model/` directory:
 
-## 🚀 How to Use the Predictor (CLI)
 
-Run from inside the `model/` directory:
 
 ```bash
 python predict.py --gender F --age 24 --language English --location Suburban --time_spent 5.5 --quiz_score 80 --login_count 9
