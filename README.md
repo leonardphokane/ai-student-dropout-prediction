@@ -63,7 +63,7 @@ python predict.py --gender F --age 24 --language English --location Suburban --t
 **Leonard Phokane**  
 Cloud Engineering · App Development · Ethical AI  
 
-📫 Connect with me on [LinkedIn](#) *(optional)*  
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/leonard-phokane) *(optional)*  
 🔗 [Portfolio & Projects](#)
 
 🪄 Future Ideas
