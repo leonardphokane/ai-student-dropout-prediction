@@ -60,8 +60,14 @@ python predict.py --gender F --age 24 --language English --location Suburban --t
 - 🚧 Accuracy Metrics & Web UI – In Progress  
 - 🚀 `recovery-main` branch is currently ahead of `main`
 
-🙋♂️ Maintainer
-Leonard Phokane Cloud Engineering · App Development · Ethical AI 📫 Connect with me on LinkedIn (Optional) 🔗 Portfolio & Projects
+## 🙋‍♂️ Maintainer
+
+**Leonard Phokane**  
+Cloud Engineering · App Development · Ethical AI  
+
+📫 Connect with me on [LinkedIn](#) *(optional)*  
+🔗 [Portfolio & Projects](#)
+
 🪄 Future Ideas
 •	[ ] Streamlit web app for real-time prediction
 •	[ ] Model evaluation dashboard
