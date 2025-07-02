@@ -58,20 +58,7 @@ python predict.py --gender F --age 24 --language English --location Suburban --t
 - 🚧 Accuracy Metrics & Web UI – In Progress  
 - 🚀 `recovery-main` branch is currently ahead of `main`
 
-## 🙋‍♂️ Maintainer
-
-**Leonard Phokane**  
-Cloud Engineering · App Development · Ethical AI  
-
-## 🙋‍♂️ Maintainer
-
-**Leonard Phokane**  
-Cloud Engineering · App Development · Ethical AI  
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonard-phokane)  
-🔗 [Portfolio & Projects](https://leonardphokane.github.io/ai-student-dropout-prediction/)
-
-
+---------
 
 🪄 Future Ideas
 •	[ ] Streamlit web app for real-time prediction
@@ -79,4 +66,19 @@ Cloud Engineering · App Development · Ethical AI
 •	[ ] Support for external CSV uploads
 •	[ ] Add dropout probability (% confidence)
 Made with passion, Python 🐍, and persistent debugging 💥
+
+-----------
+
+## 🙋‍♂️ Maintainer
+
+**Leonard Phokane**  
+Cloud Engineering · App Development · Ethical AI  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonard-phokane)  
+🔗 [Portfolio & Projects](https://leonardphokane.github.io/enhanced-cloud-portfolio/)
+(https://leonardphokane.github.io/ai-student-dropout-prediction/)
+
+
+
+
 
