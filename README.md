@@ -74,9 +74,11 @@ Made with passion, Python 🐍, and persistent debugging 💥
 **Leonard Phokane**  
 Cloud Engineering · App Development · Ethical AI  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonard-phokane)  
-🔗 [Portfolio & Projects](https://leonardphokane.github.io/enhanced-cloud-portfolio/)
-(https://leonardphokane.github.io/ai-student-dropout-prediction/)
+## 🔗 Connect with Me
+
+📫 [LinkedIn – Leonard Phokane](https://www.linkedin.com/in/leonard-phokane)  
+🌐 [Enhanced Cloud Portfolio](https://leonardphokane.github.io/enhanced-cloud-portfolio/)  
+📊 [AI Student Dropout Prediction](https://leonardphokane.github.io/ai-student-dropout-prediction/)
 
 
 
